@@ -14,9 +14,9 @@ public class EvenOddCountElement {
 			if(arr[i]%2==0) {
 				
 				evencount++;
-				System.out.println("even numbers"+arr[i]);
+				
 			}else {
-				System.out.println(arr[i]);
+				
 				oddcount++;
 			}
 		}
